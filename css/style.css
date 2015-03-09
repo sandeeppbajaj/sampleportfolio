@@ -1,7 +1,8 @@
 body{
 	font-family: 'Roboto', sans-serif;
-	color:#747704;
+	color: #6355dc;
 	font-weight: 300;
+	background: black;
 }
 
 .text-thin{
@@ -9,7 +10,7 @@ body{
 }
 
 .text-muted{
-	color: #BCBBBB;
+	color: #b6aff0;
 }
 
 .title-big{
