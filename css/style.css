@@ -24,3 +24,9 @@ body{
 .text-colored-gray{
 	color:gray;
 }
+
+.vcss-blue{
+	border:0;
+	width:88px;
+	height:31px
+}
